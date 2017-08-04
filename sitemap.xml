@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc />
+    <lastmod>2017-08-04</lastmod>
+  </url>
+  <url oeid="344e92e4-4dcd-42b5-b994-e5aea4fa939c" oelang="DEFAULT">
+    <loc>back-office-content.php</loc>
+    <lastmod>2017-08-04</lastmod>
+  </url>
+  <url oeid="f770cc9a-2266-49ca-8283-344bf7afd58f" oelang="DEFAULT">
+    <loc>oe-bkoffice-v1/add-new-content.php</loc>
+    <lastmod>2017-08-04</lastmod>
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="DEFAULT">
+    <loc>index.php</loc>
+    <lastmod>2017-08-04</lastmod>
+  </url>
+</urlset>
